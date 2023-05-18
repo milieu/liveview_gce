@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :wordex, Wordex.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "milieu",
+  password: "",
   hostname: "localhost",
   database: "wordex_dev",
   stacktrace: true,
